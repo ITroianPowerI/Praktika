@@ -1,0 +1,10 @@
+F:\Практика 39ИС1-2\pracktika2\obj\Debug\pracktika2.csproj.AssemblyReference.cache
+F:\Практика 39ИС1-2\pracktika2\obj\Debug\pracktika2.csproj.CoreCompileInputs.cache
+E:\Практика 39ИС1-2\pracktika2\bin\Debug\pracktika2.exe.config
+E:\Практика 39ИС1-2\pracktika2\bin\Debug\pracktika2.exe
+E:\Практика 39ИС1-2\pracktika2\bin\Debug\pracktika2.pdb
+E:\Практика 39ИС1-2\pracktika2\obj\Debug\pracktika2.csproj.AssemblyReference.cache
+E:\Практика 39ИС1-2\pracktika2\obj\Debug\pracktika2.csproj.SuggestedBindingRedirects.cache
+E:\Практика 39ИС1-2\pracktika2\obj\Debug\pracktika2.csproj.CoreCompileInputs.cache
+E:\Практика 39ИС1-2\pracktika2\obj\Debug\pracktika2.exe
+E:\Практика 39ИС1-2\pracktika2\obj\Debug\pracktika2.pdb
