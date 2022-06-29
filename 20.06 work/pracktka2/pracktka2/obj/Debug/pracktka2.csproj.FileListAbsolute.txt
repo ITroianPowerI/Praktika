@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\bin\Debug\pracktka2.exe.config
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\bin\Debug\pracktka2.exe
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\bin\Debug\pracktka2.pdb
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\obj\Debug\pracktka2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\obj\Debug\pracktka2.Form1.resources
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\obj\Debug\pracktka2.Properties.Resources.resources
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\obj\Debug\pracktka2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\obj\Debug\pracktka2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\obj\Debug\pracktka2.csproj.CopyComplete
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\obj\Debug\pracktka2.exe
+C:\Users\user\Desktop\20.06 work\pracktka2\pracktka2\obj\Debug\pracktka2.pdb
