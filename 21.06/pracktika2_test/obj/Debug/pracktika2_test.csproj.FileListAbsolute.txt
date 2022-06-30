@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\21.06\pracktika2_test\bin\Debug\pracktika2_test.exe.config
+C:\Users\user\Desktop\21.06\pracktika2_test\bin\Debug\pracktika2_test.exe
+C:\Users\user\Desktop\21.06\pracktika2_test\bin\Debug\pracktika2_test.pdb
+C:\Users\user\Desktop\21.06\pracktika2_test\obj\Debug\pracktika2_test.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\21.06\pracktika2_test\obj\Debug\pracktika2_test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\21.06\pracktika2_test\obj\Debug\pracktika2_test.exe
+C:\Users\user\Desktop\21.06\pracktika2_test\obj\Debug\pracktika2_test.pdb
